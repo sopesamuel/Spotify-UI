@@ -1,4 +1,4 @@
-# Spotify-UI
+# HI-FI
 
 HI-FI is the title of this project and it is in collaboration with Emmanuel Omoladun(UI Designer).
 
